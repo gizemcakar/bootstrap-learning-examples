@@ -1,0 +1,71 @@
+.new-title {
+    color:purple;  
+    font-weight: bold;
+}
+
+.logo {
+    width: 85px;
+    height: 70px;
+}
+
+.cikolatali-kek-title {
+    text-align: center; 
+    color:purple; 
+    font-size: 25px; 
+    font-weight: bold; 
+
+}
+
+#cikolatali-kek-figure-in-page {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#cikolatali-kek-picture {
+    width: 450px;
+    height: 370px;
+}
+
+.tarif-titles {
+    color:purple;
+    font-weight: bold;
+}
+
+.tarif-subtitle {
+    font-style:italic;
+}
+
+#bende-yaptim-picture {
+    width:150px;
+    height:150px;
+}
+
+
+.menu-p-card-text {
+    font-size: 23px;
+    font-style: italic;
+    text-align: center;
+
+}
+
+.menu-p-card-title {
+    color:purple;
+}
+
+.tarifler-page-header {
+    background-color: white;
+    color:purple; 
+    font-size:25px;
+    font-weight: bold;
+}
+
+.tarif-list-item {
+    list-style-type: none;
+    margin-top:10px;
+}
+
+.tarif-sublist-item {
+text-decoration-line: none;
+color:lightcoral;
+}
+
